@@ -41,11 +41,11 @@ proxies:
 #      server: jarek.top
 #      port: 3456
     - name: "网易云解锁"
-        type: socks5
-        server: jarek.top
-        port: 4567
-        username: yuchen
-        password: yuchendoudou
+      type: socks5
+      server: jarek.top
+      port: 4567
+      username: yuchen
+      password: yuchendoudou
 
 # 代理组策略
 # 策略组示例请查阅 Clash 项目 README 以使用最新格式：https://github.com/Dreamacro/clash/blob/master/README.md
