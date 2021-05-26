@@ -53,6 +53,13 @@ proxies:
       uuid: e479424e-f980-69bb-a7ab-d7647f638608
       alterId: 64
       cipher: auto
+    - name: "网易云解锁ipv4"
+      type: vmess
+      server: ipv4.jarek.top
+      port: 4568
+      uuid: e479424e-f980-69bb-a7ab-d7647f638608
+      alterId: 64
+      cipher: auto
 
 # 代理组策略
 # 策略组示例请查阅 Clash 项目 README 以使用最新格式：https://github.com/Dreamacro/clash/blob/master/README.md
@@ -61,6 +68,7 @@ proxy-groups:
       type: select
       proxies:
         - 网易云解锁
+        - 网易云解锁ipv4
 
 # 规则
 rules:
