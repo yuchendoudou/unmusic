@@ -106,6 +106,7 @@ rules:
  - DOMAIN,interface3.music.163.com.163jiasu.com,🌍 网易云解锁
  - DOMAIN,interface.music.163.com,🌍 网易云解锁
  - DOMAIN-SUFFIX,music.163.com,🌍 网易云解锁
+ - DOMAIN-SUFFIX,music.126.net,🌍 网易云解锁
  - IP-CIDR,39.105.63.80/32,🌍 网易云解锁
  - IP-CIDR,39.105.175.128/32,🌍 网易云解锁
  - IP-CIDR,45.254.48.1/32,🌍 网易云解锁
