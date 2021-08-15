@@ -100,12 +100,6 @@ rules:
 
 # 🌍 网易云解锁
  - DOMAIN,api.iplay.163.com,🌍 网易云解锁
- - DOMAIN,apm3.music.163.com,🌍 网易云解锁
- - DOMAIN,apm.music.163.com,🌍 网易云解锁
- - DOMAIN,interface3.music.163.com,🌍 网易云解锁
- - DOMAIN,interface3.music.163.com.163jiasu.com,🌍 网易云解锁
- - DOMAIN,interface.music.163.com,🌍 网易云解锁
- - DOMAIN-SUFFIX,music.163.com,🌍 网易云解锁
  - DOMAIN-SUFFIX,music.126.net,🌍 网易云解锁
  - IP-CIDR,39.105.63.80/32,🌍 网易云解锁
  - IP-CIDR,39.105.175.128/32,🌍 网易云解锁
